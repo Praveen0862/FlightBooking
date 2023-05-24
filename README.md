@@ -1,4 +1,4 @@
-# FlightBooking
+# FlightBooking #ConsoleBasedApp #Java
 
   This is an console based application for Flight Booking Using Java.
   
